@@ -7,6 +7,6 @@ Implementation for all the tasks
 
 | Task#     | Person      | Status      |
 | --------- | ----------- |-------------|
-| Task1     | Abdullwahab | in progress |
+| Task1     | Abdullwahab | Done        |
 | Task2     | Hassan      | in progress |
 | Task3     | Abdullah    | Done        |
